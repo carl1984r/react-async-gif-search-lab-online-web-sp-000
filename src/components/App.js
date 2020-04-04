@@ -4,7 +4,7 @@ import NavBar from './NavBar'
 
 import GifListContainer from '../containers/GifListContainer'
 
-// the App component should render out the GifListContainer component 
+// the App component should render out the GifListContainer component
 
 const App = () => {
   return (
