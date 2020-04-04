@@ -1,7 +1,5 @@
 class GifList extends Component{
 
-
-
     render() {
         return (
           <ul>
